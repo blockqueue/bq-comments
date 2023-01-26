@@ -1,3 +1,7 @@
 {
-  "origins": ["https://blog.blockqueue.io", "https://develop.bq-blog.pages.dev"]
+  "origins": [
+    "https://blog.blockqueue.io",
+    "https://develop.bq-blog.pages.dev",
+    "http://localhost:3001"
+  ]
 }
